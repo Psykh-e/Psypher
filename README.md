@@ -49,7 +49,8 @@ Mail to psykhe.sh@proton.me for support
 
 or
 
-https://www.instagram.com/psykhe.sh 
-https://twitter.com/Psykh_e
+instagram:https://www.instagram.com/psykhe.sh 
+
+twitter:https://twitter.com/Psykh_e
 
   
