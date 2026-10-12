@@ -1,4 +1,10 @@
-colorama==0.4.4
-cryptography==3.4.7
-pyfiglet==0.8.post1
-rich==13.4.2
+# Runtime lock for Python 3.12. All transitive runtime dependencies are pinned.
+cffi==2.1.1
+cryptography==50.0.2
+markdown-it-py==4.2.0
+mdurl==0.1.2
+portalocker==4.4.0
+pycparser==3.11
+pygments==2.21.0
+pynacl==1.6.2
+rich==15.0.0
