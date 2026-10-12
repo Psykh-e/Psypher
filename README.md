@@ -91,6 +91,16 @@ borusu için `--secrets-fd 0` kullanılır. Sırlar argv veya env içine konulma
 Onay isteyen işlemlerde `--yes` gerekli; eksik bilgi etkileşimsiz ortamda hata
 verir. Sır kanalı bir JSON satırı veya EOF ile kapatılmalıdır.
 
+## Eski sürüm ekran görüntüleri
+
+Encryption:
+
+![encryption](https://github.com/Psykh-e/Psypher/assets/66534576/7bbee344-d576-4831-8d1d-52baf957a997)
+
+Decryption:
+
+![decryption](https://github.com/Psykh-e/Psypher/assets/66534576/b446a501-7436-4e70-a273-e65359846160)
+
 ```python
 import getpass
 import json
